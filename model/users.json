@@ -1,0 +1,28 @@
+[
+	{
+		"username": "Canada",
+		"roles": {
+			"User": 2001
+		},
+		"password": "$2b$10$fpnP7ImhPz9swW.ZZEQBzuisLB8eoOUssSWaABXJ.WXtZg2g7qsDW"
+	},
+	{
+		"username": "Jin",
+		"roles": {
+			"User": 2001,
+			"Editor": 1984
+		},
+		"password": "$2b$10$6Z/ThZy8hurRHVg7uPY4EumDLxIjbWe1.KftY7V13O6gZsAyg7cki",
+		"refreshToken": ""
+	},
+	{
+		"username": "Maple",
+		"roles": {
+			"User": 2001,
+			"Editor": 1984,
+			"Admin": 5150
+		},
+		"password": "$2b$10$sn72.TD/TgdkvL1F1QYsEuWZLTkWNQ51DX0Ovw15nPOMrErjD4KFm",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1hcGxlIiwiaWF0IjoxNjg4NzczMjM1LCJleHAiOjE2ODg4NTk2MzV9.JI0AezQFGm_zi2BB53_gSaIOZNjZHhpxI3rPYRlNVXA"
+	}
+]
